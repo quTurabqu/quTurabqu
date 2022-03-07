@@ -7,7 +7,8 @@
 
 ### 🚀 Languages and Tools
 - Algorithms & Data Structures
-- OOP, Design Patterns
+- OOP
+- Design Patterns
 - Java -> Spring Framework (Core, Boot, Rest, Data, Security)
 - JDBC, JPA, Hibernate, Criteria API
 - REST (web service)
