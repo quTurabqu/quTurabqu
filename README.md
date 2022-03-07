@@ -1,16 +1,23 @@
-### Hi there 👋
+###  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Turab
+#
+- 🎓 MSc in Computer Engineering **(2020-2022)** - [BEU](https://beu.edu.az/en)
+- 🌱 I’m currently learning **Desing Patterns**
+- 💬 Ask me about **Java**
+- 📫 How to reach me **eybaliyev98@gmail.com**
 
-<!--
-**quTurabqu/quTurabqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Languages and Tools
+- Algorithms & Data Structures
+- OOP, Design Patterns
+- Java -> Spring Framework (Core, Boot, Rest, Data, Security)
+- JDBC, JPA, Hibernate, Criteria API
+- REST (web service)
+- JSP
+- Thymeleaf
+- Flyway & Liquabase
+- Mysql
+- Testing: JUnit, Mockito, Spock
+- OAuth2
+- Swagger
+- Maven, Gradle
+- Intellij Idea, STS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
