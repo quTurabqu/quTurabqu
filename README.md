@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Desing Patterns**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **eybaliyev98@gmail.com**
+- **[https://quturabqu.github.io/](https://quturabqu.github.io/)**
 
 ### 🚀 Languages and Tools
 - Algorithms & Data Structures
