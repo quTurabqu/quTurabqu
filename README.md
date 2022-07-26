@@ -3,7 +3,7 @@
 - 🎓 MSc in Computer Engineering **(2020-2022)** - [BEU](https://beu.edu.az/en)
 - 🌱 I’m currently learning **Desing Patterns**
 - 💬 Ask me about **Java**
-- 📫 How to reach me **eybaliyev98@gmail.com**
+- 📫 How to reach me **turab4programming@gmail.com**
 - **[https://quturabqu.github.io/](https://quturabqu.github.io/)**
 
 ### 🚀 Languages and Tools
